@@ -1,5 +1,5 @@
 import numpy as np
-def BisectionInterst(M,L,m):    
+def BisectionInterest(M,L,m):    
     #original_eq =  lambda x:  #TODO
     #is_same_sign = lambda a,b : #TODO
     xa = 0.0000001
